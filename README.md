@@ -3,6 +3,7 @@ Updated the file to demo github poll scm.
 updated new line
 
 added to new line by mamatha to check on webhook
+added a new line to check email notification
 
 updated the new line to check if github webhook is able to send the events.
 ====================
